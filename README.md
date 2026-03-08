@@ -1,30 +1,103 @@
-<h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
-<h3 align="center">Machine Learning Engineer | Transforming Data into Scalable Solutions</h3>
+# Hi, I'm Biswajit Pradhan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswapulan&label=Profile%20views&color=0e75b6&style=flat" alt="biswapulan" /> </p>
+**B.Tech CSE Student · Machine Learning · Open to Internships**
 
-- 🌱 I’m currently learning **Deep Learning**
+I'm a 3rd-year Computer Science student passionate about building end-to-end ML systems — from raw data to deployed APIs. I don't know everything, but I learn every single day and I build what I learn.
 
-- 👨‍💻 All of my projects are available at [biswajitpradhan.in](biswajitpradhan.in)
+Currently preparing for **GATE DA 2026** and actively looking for **ML Engineer / ML Intern** roles.
 
-- 📫 How to reach me **basantbiswa04@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/biswapulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswapulan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/biswajit-pradhan-ab66971b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajit-pradhan-ab66971b9" height="30" width="40" /></a>
-<a href="https://kaggle.com/biswapulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="biswapulan" height="30" width="40" /></a>
-<a href="https://instagram.com/biswapulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswapulan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/biswapulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="biswapulan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/basantbte6x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="basantbte6x" height="30" width="40" /></a>
-</p>
+## 🛠️ What I Work With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswapulan&show_icons=true&locale=en&layout=compact" alt="biswapulan" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswapulan&show_icons=true&locale=en" alt="biswapulan" /></p>
+**ML / DL**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswapulan&" alt="biswapulan" /></p>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=xgboost&logoColor=white)
 
+**Data & EDA**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+**MLOps / Deploy**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Customer Churn Prediction System
+> Python · XGBoost · FastAPI · Streamlit · Docker · SHAP · Optuna · HuggingFace
+
+End-to-end ML pipeline on IBM Telco dataset (7,043 customers). Achieved **~0.85 AUC-ROC** with XGBoost. Implemented SHAP explainability for business insights, built a FastAPI backend with REST endpoints, Streamlit dashboard for real-time inference, and deployed both on HuggingFace Spaces via Docker.
+
+[Live Dashboard](https://biswapulan-churn-prediction-dashboard.hf.space) · [API Docs](https://biswapulan-churn-prediction-api.hf.space/docs) · [Repo](https://github.com/biswapulan/churn-prediction)
+
+---
+
+### 🔹 Image Classification — Multi-class CNN
+> Python · TensorFlow · Keras · VGG16 · Grad-CAM · Streamlit
+
+Fine-tuned VGG16 on a custom 10,000+ image dataset across 8 categories. Achieved **93.2% test accuracy**. Applied data augmentation, implemented Grad-CAM visualizations for interpretability, and optimized inference speed by 35% using TensorFlow Lite quantization.
+
+---
+
+## 💼 Experience
+
+**Founder & Developer — [BPUTNotes.in](https://bputnotes.in)** *(2025 – Present)*
+
+Built an educational platform serving BPUT university students. Automated generation of 2,000+ structured notes using the OpenAI API. Solely responsible for end-to-end design, development, and maintenance.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Deep Learning & Computer Vision
+- MLOps practices (CI/CD for ML pipelines)
+- GATE DA 2026 preparation — ML, Statistics, Linear Algebra
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 5% — College-level Hackathon (Fraud Detection Model, 24hrs)
+- 🎓 Machine Learning Specialization — Andrew Ng (Coursera)
+- 🎓 Deep Learning Specialization — DeepLearning.AI
+- ⚡ Active on Kaggle, LeetCode & GeeksforGeeks
+
+---
+
+## 📊 GitHub Stats
+
+![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswapulan&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswapulan&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-biswajitpradhan.in-000000?style=flat&logo=safari&logoColor=white)](https://biswajitpradhan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Biswajit%20Pradhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajitpradhan)
+[![Email](https://img.shields.io/badge/Email-basantbiswa04@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:basantbiswa04@gmail.com)
+
+---
+
+*I don't know everything — but I show up, I build, and I keep learning. That's the deal.* 🚀
