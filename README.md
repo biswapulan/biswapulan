@@ -4,7 +4,7 @@
 
 I'm a 3rd-year Computer Science student passionate about building end-to-end ML systems — from raw data to deployed APIs. I don't know everything, but I learn every single day and I build what I learn.
 
-Currently preparing for **GATE DA 2026** and actively looking for **ML Engineer / ML Intern** roles.
+Actively looking for **ML Engineer / ML Intern** roles.
 
 ---
 
