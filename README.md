@@ -72,7 +72,7 @@ Built an educational platform serving BPUT university students. Automated genera
 
 - Advanced Deep Learning & Computer Vision
 - MLOps practices (CI/CD for ML pipelines)
-- GATE DA 2026 preparation — ML, Statistics, Linear Algebra
+- ML, Statistics, Linear Algebra
 
 ---
 
