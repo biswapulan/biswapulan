@@ -4,7 +4,7 @@
 
 I'm a 3rd-year Computer Science student passionate about building end-to-end ML systems — from raw data to deployed APIs. I don't know everything, but I learn every single day and I build what I learn.
 
-Actively looking for **ML Engineer / ML Intern** roles.
+*I don't know everything — but I show up, I build, and I keep learning. That's the deal.* 🚀
 
 ---
 
