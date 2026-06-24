@@ -2,7 +2,7 @@
 
 **B.Tech CSE Student · Machine Learning · Open to Internships**
 
-I'm a 3rd-year Computer Science student passionate about building end-to-end ML systems — from raw data to deployed APIs. I don't know everything, but I learn every single day and I build what I learn.
+I'm a final year Computer Science student passionate about building end-to-end ML systems — from raw data to deployed APIs. I don't know everything, but I learn every single day and I build what I learn.
 
 *I don't know everything — but I show up, I build, and I keep learning. That's the deal.* 🚀
 
